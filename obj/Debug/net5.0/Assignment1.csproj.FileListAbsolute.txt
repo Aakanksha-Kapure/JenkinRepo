@@ -1,0 +1,16 @@
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.csproj.AssemblyReference.cache
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfoInputs.cache
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfo.cs
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.exe
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.deps.json
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.json
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.dev.json
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.dll
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\ref\Assignment1.dll
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\bin\Debug\net5.0\Assignment1.pdb
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.dll
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\ref\Assignment1.dll
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.pdb
+E:\LnTInfotech\Training\.Net\CSharp\Assignment1\obj\Debug\net5.0\Assignment1.genruntimeconfig.cache
